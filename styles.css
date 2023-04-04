@@ -1,0 +1,24 @@
+.draggable-emoji {
+  font-size: 2em;
+  margin: auto;
+  bottom: 0;
+}
+#emoji1 {
+  position: absolute;
+}
+#emoji2 {
+  position: absolute;
+  left: 100px;
+}
+#emoji3 {
+  position: absolute;
+  left: 200px;
+}
+#emoji4 {
+  position: absolute;
+  left: 300px;
+}
+#emoji5 {
+  position: absolute;
+  left: 400px;
+}
